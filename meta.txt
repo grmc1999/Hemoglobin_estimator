@@ -1,0 +1,14 @@
+    rgb_mean
+    rgb_per
+    rgb_mo
+    hsv_mean
+    hsv_per
+    hsv_mo
+    lab_mean
+    lab_std
+    lab_per
+    lab_mo
+    x_mean
+    x_std
+    y_mean
+    y_std
